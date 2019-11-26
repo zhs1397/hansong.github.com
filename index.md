@@ -16,8 +16,8 @@ I am currently a senior student at HUST
           first place in intramural badminton competition
  
 **social activities**: Vice Head, Department of Activity Organization, Texas Instruments Club, HUST
-                     Held the Magic Chip Competition, conferring the exemption of the first round of internship interview to the winner
-                     Invited the professionals of Texas Instruments from headquarters in Shanghai to give lectures on career planning
+                       Held the Magic Chip Competition
+                       Invited the professionals of TI from headquarters in Shanghai to give lectures
 
 
 ### Computer Skills
