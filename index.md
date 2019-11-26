@@ -1,6 +1,6 @@
 ## Welcome to Hansong's perosnal website 
 
-Education background: [Huazhong univerisity of Science and Technology](http://www.hust.edu.cn/) B.eng in Integrated Circuit and Systems.
+I am currently a senior student at HUST
 
 
 
